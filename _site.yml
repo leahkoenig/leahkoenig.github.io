@@ -1,0 +1,14 @@
+name: "."
+title: "Leah R. Koenig, MSPH"
+description: |
+  mfeo
+output_dir: "docs"
+navbar:
+  right:
+    - text: "CV"
+      href: cv.html
+    - text: "Publications"
+      href: pubs.html
+    - text: "Media"
+      href: media.html
+output: distill::distill_website
