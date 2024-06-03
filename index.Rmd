@@ -1,0 +1,30 @@
+---
+title: "Leah R. Koenig"
+image: lrk_round.png
+links:
+  - label: '`r fontawesome::fa("envelope", height = "25px")`'
+    url: "mailto:leah.koenig@ucsf.edu"
+  - label: '`r fontawesome::fa("twitter", height = "25px")`'
+    url: "https://twitter.com/leahrkoenig"
+  - label: '`r fontawesome::fa("linkedin", height = "25px")`'
+    url: "https://www.linkedin.com/in/leah-ren-ai-koenig-95383956"
+
+base_url: "https://leahkoenig.github.io/"
+site: distill::distill_website
+output: postcards::trestles
+
+---
+I am a PhD candidate in Epidemiology and Translational Sciences at the University of California, San Francisco. I'm a member of the <a href="https://www.ansirh.org/">Advancing New Standards in Reproductive Health</a> team at UCSF. I apply quantitative research methods to policy-relevant issues in reproductive health. My current research examines the safety, effectiveness, patient experience, and health equity implications of novel methods of abortion care.
+
+---
+
+<font size="+2">**Education**</font>
+
+**University of California, San Francisco** | Ph.D. in Epidemiology and Translational Sciences | Expected 2024
+
+NIH Predoctoral F31 and T32 Fellow
+
+**Johns Hopkins Bloomberg School of Public Health** | M.S.P.H in Population, Family, and Reproductive Health | May 2017
+
+**Wesleyan University** | B.A. with Honors in Social Studies | May 2013
+
