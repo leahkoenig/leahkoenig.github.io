@@ -7,4 +7,4 @@ output: postcards::jolla
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-<iframe src="https://drive.google.com/file/d/1ZohWmfXSod8d0GWE80cQtl9ieFFZCysJ/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1ZohWmfXSod8d0GWE80cQtl9ieFFZCysJ/preview" width="960" height="720" allow="autoplay"></iframe>
