@@ -2,7 +2,6 @@ name: "leahkoenig.github.io"
 title: "Leah R. Koenig, MSPH"
 base_url: https://leahkoenig.github.io/
 repository_url: https://github.com/leahkoenig/leahkoenig.github.io
-output_dir: "leahkoenig.github.io/docs"
 navbar:
   right:
     - text: "CV"
