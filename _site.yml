@@ -1,14 +1,22 @@
-name: "."
+name: "leahkoenig.github.io"
 title: "Leah R. Koenig, MSPH"
-description: |
-  mfeo
-output_dir: "docs"
+base_url: https://leahkoenig.github.io/
+repository_url: https://github.com/leahkoenig/leahkoenig.github.io
+output_dir: "leahkoenig.github.io/docs"
 navbar:
   right:
     - text: "CV"
       href: cv.html
     - text: "Publications"
       href: pubs.html
+      menu:
+        - text: "Publications"
+          href: pubs.html
+        - text: "Other writing"
+          href: oth.html
     - text: "Media"
       href: media.html
-output: distill::distill_website
+    - icon: fab fa-github
+      href: https://github.com/rstudio/distill
+output: distill::distill_article
+theme: postcards.css
