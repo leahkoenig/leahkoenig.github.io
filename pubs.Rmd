@@ -1,0 +1,59 @@
+---
+title: "Publications"
+output: postcards::trestles
+
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<font size="+2">2024</font>
+<p><a href="https://doi.org/10.2105/AJPH.2023.307437" style="color:black;">`r fontawesome::fa("unlock-keyhole", height = "15px")` **Koenig LR**, Ko J, Valladares E, Coeytaux F, Wells E, Lyles C, Upadhyay UD. Patient Acceptability of Telehealth Medication Abortion Care in the United States, 2021‒2022: A Cohort Study. Am J Public Health. 2024;114(2):241-250. <i>(Altmetric Score: 138, top 5% of publications)<a></i><br>
+<a href="https://www.nature.com/articles/s41591-024-02834-w" style="color:black;">`r fontawesome::fa("unlock-keyhole", height = "15px")` Upadhyay UD, **Koenig LR**, Ko J, Valladares E, Meckstroth K, Biggs A. Effectiveness and safety of telehealth medication abortion in the United States. Nature Medicine. 2024;30(4):1191–8. <i>(Altmetric Score: 2377, top 1% of publications)<a></i></p>
+
+<font size="+2">2023</font>
+<p><a href="https://publichealth.jmir.org/2023/1/e45671" style="color:black;">`r fontawesome::fa("unlock-keyhole", height = "15px")` **Koenig LR**, Becker A, Ko J, Upadhyay UD. a JMIR Public Health Surveill. 2023;9:e45671. <i>(Altmetric Score: 95, top 5% of publications)<a></i><br>
+<a href="https://doi.org/10.1016/j.contraception.2023.109962" style="color:black;">`r fontawesome::fa("unlock-keyhole", height = "15px")` **Koenig LR**, Raymond EG, Gold M, Kaneshiro B, Winikoff B, Coplon L, Upadhyay UD. Mailing abortion pills does not delay care: a cohort study comparing mailed to in-person dispensing of abortion medications in the United States. Contraception. 2023:109962.<a><br>
+`r fontawesome::fa("lock", height = "15px")` <a href="https://doi.org/10.1016/j.contraception.2023.110109" style="color:black;">Raymond E, Weaver M, Shochet T, Grant M, Boyd K, **Koenig LR**, Upadhyay UD. Clinical outcomes of medication abortion using misoprostol-only: a retrospective chart review at one clinic in the United States. Contraception, 2023:110109.<a><br>
+`r fontawesome::fa("unlock-keyhole", height = "15px")` <a href="https://doi.org/10.1016/j.jadohealth.2023.02.001" style="color:black;"> Gayles J, Barker K, Yahner M, Lundgren R, Li M, **Koenig LR**, Mafuta E, Mbela P, Moreau C. Balancing quality, intensity and scalability: Results of a multi-level sexual and reproductive health intervention for very young adolescents in Kinshasa. Journal of Adolescent Health. 2023;73(1S):S33-S42.</p>
+
+<font size="+2">2022</font>
+<p>`r fontawesome::fa("unlock-keyhole", height = "15px")` <a href="https://doi.org/10.1016/j.ssmph.2022.101305" style="color:black;"> **Koenig LR**, Smith Hughes C, Gemmill A, Diamond-Smith N. Unequal impacts of the COVID-19 pandemic on women’s fertility preferences: Evidence from a longitudinal cohort in the United States. Social Science and Medicine - Population Health. 2022:101305.<br>
+`r fontawesome::fa("unlock-keyhole", height = "15px")` <a href="https://doi.org/10.1001/jamainternmed.2022.0217" style="color:black;"> Upadhyay UD, Raymond EG, **Koenig LR**, Coplon L, Gold M, Kaneshiro B, Boraas CM, Winikoff B. Outcomes and safety of history-based screening for medication abortion: a retrospective multicenter cohort study. JAMA Intern Med. 2022 May 1;182(5):482. <i>(Altmetric Score: 1320, top 5% of publications)</i></p>
+
+<font size="+2">2021</font>	
+<p>`r fontawesome::fa("unlock-keyhole", height = "15px")` <a href="https://doi.org/10.1001/jamanetworkopen.2021.22320" style="color:black;"> Upadhyay UD, **Koenig LR**, Meckstroth K. Safety and efficacy of telehealth medication abortions in the US during the COVID-19 pandemic. JAMA Network Open. 2021;4(8):e2122320–e2122320. (Altmetric Score: 1296, top 5% of publications)<br>
+`r fontawesome::fa("unlock-keyhole", height = "15px")` <a href="https://doi.org/10.1016/j.jadohealth.2021.01.023" style="color:black;">**Koenig LR**, Blum R, Shervington D, Green J, Li M, Wilopo S, Tabana H, Moreau C. Unequal gender norms are related to symptoms of depression among young adolescents: A cross-sectional, cross-cultural study. Journal of Adolescent Health. 2021;69(1):S47–55.<br>
+`r fontawesome::fa("unlock-keyhole", height = "15px")` <a href="https://doi.org/10.1016/j.jadohealth.2021.03.031" style="color:black;"> **Koenig LR***, Zimmerman L, Pulerwitz J, Kayembe P, Maddaleno M, Moreau C. The Intersection of Power and Gender: Examining the Relationship of Empowerment and Gender-Unequal Norms Among Young Adolescents in Kinshasa, DRC Journal of Adolescent Health. 2021;69(1):S64–71.<br>
+`r fontawesome::fa("unlock-keyhole", height = "15px")` <a href="https://doi.org/10.1016/j.jadohealth.2021.01.024" style="color:black;"> Mmari K, Cooper D, Moreau C, **Koenig LR**, Martinez M, Mafuta E, Kayembe P, de Meyer S, Michielsen K, Yu C, Zuo X, Blum R. The social context of early adolescents in the Global Early Adolescent Study. Journal of Adolescent Health. 2021;69(1):S5–15.</p>
+
+<font size="+2">2020</font>	
+<p>`r fontawesome::fa("unlock-keyhole", height = "15px")` <a href="https://doi.org/10.1016/j.jadohealth.2020.02.026" style="color:black;"> **Koenig LR**, Li M, Zimmerman LA, Kayembe P, Lou C, Mafuta E, Ortiz J, Moreau C. Associations between agency and sexual and reproductive health communication in early adolescence: a cross-cultural, cross-sectional study. Journal of Adolescent Health. 2020;67(3):416–24.</p>
+
+<font size="+2">2016</font>	
+<p>`r fontawesome::fa("unlock-keyhole", height = "15px")` <a href="https://doi.org/10.1186/s12905-016-0327-1" style="color:black;"> Dabash R, Shochet T, Hajri S, Chelli H, Hassairi AE, Haleb D, Labassi H, Sfar E, **Koenig LR**, Winikoff B. Self-administered multi-level pregnancy tests in simplified follow-up of medical abortion in Tunisia. BMC Women’s Health. 2016;16(1):49.</p>
+
+<font size="+2">Manuscripts Under Review</font>	
+<p>`r fontawesome::fa("paper-plane", height = "15px")` <a href="http://preprints.jmir.org/preprint/50749" style="color:black;">**Koenig LR**, Ko J, Upadhyay UD. Virtual clinic telehealth abortion services in the United States one year after Dobbs: a landscape review.<i>(Preprint)</i></a><br>
+`r fontawesome::fa("paper-plane", height = "15px")` Becker A, Doria C, **Koenig LR**, Ko J, Upadhyay UD. “It was so easy in a situation that’s so hard”: how telehealth mitigates abortion stigma.<br> 
+`r fontawesome::fa("paper-plane", height = "15px")` Doria C, Becker A, **Koenig LR**, Ko J, Upadhyay UD. “I don't want to be in the energy of that situation”: Embodied experiences with telehealth medication abortion.<br> 
+`r fontawesome::fa("paper-plane", height = "15px")` Shin L, **Koenig LR**, Ko J, Meckstroth K, Upadhyay UD. Patient uptake of Rh testing and Rh immunoglobulin with telehealth medication abortion.<br>
+`r fontawesome::fa("paper-plane", height = "15px")` Pacca L, Dang KV, **Koenig LR**, Gaye A, Duarte C, Harrati A, Vable AM. Sequence analysis as an approach to characterize variables that unfold over time: implementation and practical considerations for epidemiologists.</p>
+
+<font size="+2">Manuscripts In Preparation </font>	
+<p>`r fontawesome::fa("spinner", height = "15px")` **Koenig LR**, Raymond EG, Frye LJ, Glidden D, Kaneshiro B, Upadhyay UD. Comparing the safety and effectiveness of medication abortion provided with and without screening ultrasound or pelvic exam. <br>
+`r fontawesome::fa("spinner", height = "15px")` **Koenig LR**, Upadhyay UD. Masculinity ideology increases sexual risk behaviors among adolescents and young adults. <br>
+`r fontawesome::fa("spinner", height = "15px")` **Koenig LR**, Glidden D, Ko J, Upadhyay UD. Improving estimates of medication abortion effectiveness: The impact of loss to follow-up.<br>
+`r fontawesome::fa("spinner", height = "15px")` **Koenig LR**, Pacca L, Hamad R, Holt K, Vable A. Exploring U.S. state abortion policy trajectories from 1970 – 2014 using sequence analysis.<br>
+`r fontawesome::fa("spinner", height = "15px")` **Koenig LR**, Pacca L, Diamond-Smith N, Vable A. Examining 24-month contraceptive use trajectories in the United States, a cohort study, 2018-2022<br>
+`r fontawesome::fa("spinner", height = "15px")` Whitfield B, **Koenig LR**, Rocca C. Who switches from hormonal to non-hormonal contraception? A departure from typical explorations of uptake in highly effective contraception.<br>
+`r fontawesome::fa("spinner", height = "15px")` Upadhyay UD, **Koenig LR**, Ko J, Sietstra C, Biggs A. Interest in late period pills in the United States: a nationally representative survey.<br>
+`r fontawesome::fa("spinner", height = "15px")` Phillips K, **Koenig LR**, Peters L, Ko J, Upadhyay UD. Adolescent experiences using telehealth medication abortion in the United States. <br>
+`r fontawesome::fa("spinner", height = "15px")` Wilson ST, Peters L, **Koenig LR**, Bell SO, Upadhyay UD. Use of ultrasound before telehealth abortion. <br>
+`r fontawesome::fa("spinner", height = "15px")` Biggs MA, Kaller S, Grossman D, Ko J, **Koenig LR**, Upadhyay UD. Experiences of ectopic pregnancy among people seeking telehealth abortion care. </p>
+
+<font size="+2"> Reports and Opinion Editorials </font>	
+<p> Koenig LR, Upadhyay UD. Telehealth makes timely abortions possible for many, research shows. The Conversation. 2024. <br>
+<p> Koenig LR, Becker A, Upadhyay UD. Telehealth medication abortion is safe and effective. Society of Family Planning. 2023. <br>
+<p> Koenig LR, Upadhyay UD. Virtual Clinics Offer Safe and Effective Abortion Care. Public Health Post. 2021. <br>
+<p> Zia Y, Koenig LR, Ko J, Upadhyay U. Safety and effectiveness of first-trimester medication abortion in the United States. Oakland, California: Advancing New Standards in Reproductive Health. <br></p>
