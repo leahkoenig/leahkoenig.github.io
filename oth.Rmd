@@ -8,7 +8,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 <font size="+2"> Book chapters </font>
-<p> Koenig LR, Li M. Achieving Gender Equality: Understanding Gender Equality and Health among Vulnerable Adolescents in the Sustainable Development Goals Era. In P. Banati, editor, Sustainable Development Across the Life Course: Evidence from Longitudinal Research. 2020. Bristol University Press.</p> 
+<p> **Koenig LR**, Li M. Achieving Gender Equality: Understanding Gender Equality and Health among Vulnerable Adolescents in the Sustainable Development Goals Era. In P. Banati, editor, Sustainable Development Across the Life Course: Evidence from Longitudinal Research. 2020. Bristol University Press.</p> 
 
 <font size="+2"> Reports and Opinion Editorials </font>	
 <p> <a href="https://theconversation.com/telehealth-makes-timely-abortions-possible-for-many-research-shows-219076" style="color:black;"> **Koenig LR**, Upadhyay UD. Telehealth makes timely abortions possible for many, research shows. The Conversation. 2024. </a> <br>

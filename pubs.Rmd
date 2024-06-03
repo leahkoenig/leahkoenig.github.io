@@ -53,7 +53,7 @@ knitr::opts_chunk$set(echo = TRUE)
 `r fontawesome::fa("spinner", height = "15px")` Biggs MA, Kaller S, Grossman D, Ko J, **Koenig LR**, Upadhyay UD. Experiences of ectopic pregnancy among people seeking telehealth abortion care. </p>
 
 <font size="+2"> Reports and Opinion Editorials </font>	
-<p> Koenig LR, Upadhyay UD. Telehealth makes timely abortions possible for many, research shows. The Conversation. 2024. <br>
-<p> Koenig LR, Becker A, Upadhyay UD. Telehealth medication abortion is safe and effective. Society of Family Planning. 2023. <br>
-<p> Koenig LR, Upadhyay UD. Virtual Clinics Offer Safe and Effective Abortion Care. Public Health Post. 2021. <br>
-<p> Zia Y, Koenig LR, Ko J, Upadhyay U. Safety and effectiveness of first-trimester medication abortion in the United States. Oakland, California: Advancing New Standards in Reproductive Health. <br></p>
+<p> **Koenig LR**, Upadhyay UD. Telehealth makes timely abortions possible for many, research shows. The Conversation. 2024. <br>
+<p> **Koenig LR**, Becker A, Upadhyay UD. Telehealth medication abortion is safe and effective. Society of Family Planning. 2023. <br>
+<p> **Koenig LR**R, Upadhyay UD. Virtual Clinics Offer Safe and Effective Abortion Care. Public Health Post. 2021. <br>
+<p> Zia Y, **Koenig LR**, Ko J, Upadhyay U. Safety and effectiveness of first-trimester medication abortion in the United States. Oakland, California: Advancing New Standards in Reproductive Health. <br></p>
