@@ -8,7 +8,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 <font size="+2">2024</font>
-<p>`r fontawesome::fa("unlock-keyhole", height = "15px")` <a href="http://preprints.jmir.org/preprint/50749" style="color:black;">**Koenig LR**, Ko J, Upadhyay UD. Virtual clinic telehealth abortion services in the United States one year after Dobbs: a landscape review.<i>(Preprint)</i></a><br>
+<p>Becker A, Doria C, **Koenig LR**, Ko J, Upadhyay UD. “It was so easy in a situation that’s so hard”: how telehealth mitigates abortion stigma. <i>(In Press, Journal of Health and Social Behavior)</i></a><br>
+<a>`r fontawesome::fa("unlock-keyhole", height = "15px")` <a href="https://www.jmir.org/2024/1/e50749/" style="color:black;">**Koenig LR**, Ko J, Upadhyay UD. Virtual clinic telehealth abortion services in the United States one year after Dobbs: a landscape review.<a><br>
 <a href="https://doi.org/10.2105/AJPH.2023.307437" style="color:black;">`r fontawesome::fa("unlock-keyhole", height = "15px")` **Koenig LR**, Ko J, Valladares E, Coeytaux F, Wells E, Lyles C, Upadhyay UD. Patient Acceptability of Telehealth Medication Abortion Care in the United States, 2021‒2022: A Cohort Study. Am J Public Health. 2024;114(2):241-250. <i>(Altmetric Score: 138, top 5% of publications)<a></i><br>
 <a href="https://www.nature.com/articles/s41591-024-02834-w" style="color:black;">`r fontawesome::fa("unlock-keyhole", height = "15px")` Upadhyay UD, **Koenig LR**, Ko J, Valladares E, Meckstroth K, Biggs A. Effectiveness and safety of telehealth medication abortion in the United States. Nature Medicine. 2024;30(4):1191–8. <i>(Altmetric Score: 2382, top 1% of publications)<a></i></p>
 
