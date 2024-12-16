@@ -41,16 +41,17 @@ knitr::opts_chunk$set(echo = TRUE)
 `r fontawesome::fa("paper-plane", height = "15px")` Doria C, Becker A, **Koenig LR**, Ko J, Upadhyay UD. “I don't want to be in the energy of that situation”: Embodied experiences with telehealth medication abortion.<br> 
 `r fontawesome::fa("paper-plane", height = "15px")` Shin L, **Koenig LR**, Ko J, Meckstroth K, Upadhyay UD. Patient uptake of Rh testing and Rh immunoglobulin with telehealth medication abortion.<br>
 `r fontawesome::fa("paper-plane", height = "15px")` <a href="https://www.medrxiv.org/content/10.1101/2024.06.18.24308957v1" style="color:black;"> Pacca L, Dang KV, **Koenig LR**, Gaye A, Duarte C, Harrati A, Vable AM. Sequence analysis as an approach to characterize variables that unfold over time: implementation and practical considerations for epidemiologists.(Preprint)</p>
+`r fontawesome::fa("spinner", height = "15px")` Wilson ST, Peters L, **Koenig LR**, Bell SO, Upadhyay UD. Use of ultrasound before telehealth abortion. <br>
 
 <font size="+2">Manuscripts In Preparation </font>	
 <p>`r fontawesome::fa("spinner", height = "15px")` **Koenig LR**, Upadhyay UD. Masculinity ideology increases sexual risk behaviors among adolescents and young adults. <br>
 `r fontawesome::fa("spinner", height = "15px")` **Koenig LR**, Glidden D, Ko J, Upadhyay UD. Improving estimates of medication abortion effectiveness: The impact of loss to follow-up.<br>
+`r fontawesome::fa("spinner", height = "15px")` **Koenig LR**, Peters L, Meckstroth K, Glidden D, Ko J, Oldenburg C, Upadhyay UD. Processes of follow-up care and adverse event diagnoses after telehealth abortion: a cohort study, 2021–2022.<br>
 `r fontawesome::fa("spinner", height = "15px")` **Koenig LR**, Pacca L, Hamad R, Holt K, Vable A. Exploring U.S. state abortion policy trajectories from 1970 – 2014 using sequence analysis.<br>
 `r fontawesome::fa("spinner", height = "15px")` **Koenig LR**, Pacca L, Diamond-Smith N, Vable A. Examining 24-month contraceptive use trajectories in the United States, a cohort study, 2018-2022<br>
 `r fontawesome::fa("spinner", height = "15px")` Whitfield B, **Koenig LR**, Rocca C. Who switches from hormonal to non-hormonal contraception? A departure from typical explorations of uptake in highly effective contraception.<br>
 `r fontawesome::fa("spinner", height = "15px")` Upadhyay UD, **Koenig LR**, Ko J, Sietstra C, Biggs A. Interest in late period pills in the United States: a nationally representative survey.<br>
 `r fontawesome::fa("spinner", height = "15px")` Phillips K, **Koenig LR**, Peters L, Ko J, Upadhyay UD. Adolescent experiences using telehealth medication abortion in the United States. <br>
-`r fontawesome::fa("spinner", height = "15px")` Wilson ST, Peters L, **Koenig LR**, Bell SO, Upadhyay UD. Use of ultrasound before telehealth abortion. <br>
 `r fontawesome::fa("spinner", height = "15px")` Biggs MA, Kaller S, Grossman D, Ko J, **Koenig LR**, Upadhyay UD. Experiences of ectopic pregnancy among people seeking telehealth abortion care. </p>
 
 <font size="+2"> Reports and Opinion Editorials </font>	
